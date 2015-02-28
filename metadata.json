@@ -1,0 +1,30 @@
+{
+  "author": "Sledge Sulaweyo",
+  "dependencies": [
+  	{"version_requirement": ">= 2.2.1","name": "puppetlabs/stdlib"}
+  ],
+  "license": "Apache License, Version 2.0",
+  "name": "sledge-ci_windows_cleanup",
+  "operatingsystem_support": [],
+  "project_page": "https://github.com/sulaweyo/ci_windows_cleanup",
+  "requirements": [],
+  "source": "https://github.com/sulaweyo/ci_windows_cleanup.git",
+  "summary": "Cleanup Windows installations",
+  "tags": ["windows","Cleanup"],
+  "version": "0.1.0",
+  "operatingsystem_support": [
+    {
+      "operatingsystem": "Windows",
+      "operatingsystemrelease": [
+        "Server 2003",
+        "Server 2003 R2",
+        "Server 2008",
+        "Server 2008 R2",
+        "Server 2012",
+        "Server 2012 R2",
+        "7",
+        "8"
+      ]
+    }
+  ]
+}
