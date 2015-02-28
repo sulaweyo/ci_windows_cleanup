@@ -1,6 +1,6 @@
 # Windows cleanup class #
 
-This module is designed to keep a always-on windows system from filling up by cleaning up some stuff that fills up otherwise.
+This module is designed to keep an always-on windows system from wasting space by cleaning up some stuff that fills up otherwise.
 
 ## What is cleaned ##
 * Temp directory of user
